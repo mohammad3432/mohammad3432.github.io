@@ -1,0 +1,17 @@
+p.summary {
+background-color: rgb(13, 172, 13);
+font-family: Courier;
+}
+
+h2.name {
+    font-size: 300%;
+}
+
+.center {
+    text-align: center;
+    font-size:1vw;
+}
+
+img {
+    width: 100%;
+}
